@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.android.example.musicalstructure.SavedActivity">
+
+    <TextView
+        style="@style/categorySummaryStyle"
+        android:text="@string/category4summary" />
+
+    <TextView
+        android:id="@+id/searchActivity"
+        style="@style/categoryStyle"
+        android:text="@string/category5" />
+
+</LinearLayout>

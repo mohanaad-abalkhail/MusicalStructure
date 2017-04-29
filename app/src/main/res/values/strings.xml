@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+
+    <string name="category1">Browse</string>
+    <string name="category1summary">This View should display the music available sorted by category type or artist</string>
+
+    <string name="category2">Top Charts</string>
+    <string name="category2summary">This View should view the top ranking music based on number of times listened to or purchased</string>
+
+    <string name="category3">Favorites</string>
+    <string name="category3summary">This View should have what the user had favored previously</string>
+
+    <string name="category4">Saved</string>
+    <string name="category4summary">This View should have all the music tha has been saved</string>
+
+    <string name="category5">Search</string>
+    <string name="category5summary">This View should have the ability to search the whole music library</string>
+
+    <string name="category6">Now Playing</string>
+    <string name="category6summary">This View should simply View what the user is playing right now and nothing else we should use for this either MediaPlayer or AudioManager classes </string>
+
+</resources>
